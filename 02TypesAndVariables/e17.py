@@ -1,0 +1,17 @@
+print("A) Value: ", 5 + 10 * 5)
+b = 3 - 2 + 1
+print("B) Value: ", b)
+c = 2 + - 3
+print("C) Value: ", c)
+print("D) Value: ", 2 ** 8)
+print("E) Value: ", 4 + 4 / 2 ** 2)
+print("F) Value: ", 4 % 3 % 2 % 1)
+print("G) Value: ", 1 + 2 % 3 ** 4 * 5)
+print("H) Value: ", True != False)
+print("I) Value: ", 2 <= 3 or False)
+print("J) Value: ", not True or not False and not True)
+print("K) Value: ", 2 < 3 and 4 < 5 or not 6 < 7)
+print("L) Value: ", 2 % 3 < 4 / 5 and 6 + 7 < 8 or not 9 + 10 == 19)
+print("M) Value: ", 0b11111 >> 1 >> 1 >> 1)
+print("N) Value: ", 0x11 + 0b11 + 11)
+print("O) Value: ", 2 << 3 >> 4)
