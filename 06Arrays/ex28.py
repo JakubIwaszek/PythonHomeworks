@@ -14,5 +14,5 @@ def displayArray(array):
             counter = 0
         
     
-array = range(1, 32)
+array = range(1, 1000)
 displayArray(array)
