@@ -1,0 +1,12 @@
+{
+    "name": "John",
+    "surname": "Bloom",
+    "age": 23,
+    "studentId": "321234",
+    "studentCardActive": true,
+    "subjects": [
+        "math",
+        "english",
+        "chemistry"
+    ]
+}
